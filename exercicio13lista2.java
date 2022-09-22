@@ -15,6 +15,7 @@ public class exercicio13lista2 {
             salario = (salario-(salario*0.10))+dependentes;
             System.out.println("Este é o salario liquido do danado "+salario); 
         }
+        // orangutango
         
         else if (salario<=3500) {
             salario = (salario-(salario*0.125))+dependentes;
