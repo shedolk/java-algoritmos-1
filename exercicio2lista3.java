@@ -13,7 +13,7 @@ public class exercicio2lista3 {
                 impares++;
             }
         }
-        System.out.println("pares : "+pares );
-        System.out.println("impares : "+impares );
+        System.out.println("pares : " + pares);
+        System.out.println("impares : " + impares);
     }
 }
